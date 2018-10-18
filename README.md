@@ -1,1 +1,1 @@
-# hr-learning
+# HR-Learning
